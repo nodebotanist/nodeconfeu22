@@ -6,7 +6,10 @@ const { join } = require('node:path');
 
 const wasi = new WASI({
   args: argv,
-  env
+  env,
+  preopens: {
+    '/helloworld': './'
+  }
 });
 
 // Some WASI binaries require:
