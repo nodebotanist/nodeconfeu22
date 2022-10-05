@@ -1,0 +1,19 @@
+{
+  "name": "nodeconfeu22",
+  "version": "1.0.0",
+  "description": "Augmenting Node.JS with WebAssembly-- NodeConf EU 2022 Lyrath Estate, Kilkenny, IE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodebotanist/nodeconfeu22.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nodebotanist/nodeconfeu22/issues"
+  },
+  "homepage": "https://github.com/nodebotanist/nodeconfeu22#readme"
+}
