@@ -16,3 +16,7 @@ cp target/wasm32-wasi/release/wasm-module.wasm ..
 ```
  node --experimental-wasi-unstable-preview1 run-wasm.js
 ```
+
+# Talk Slides
+
+[on Google Slides](https://docs.google.com/presentation/d/1hibXu9VdkwqkPCIG6X0Y4Csu4siPUoPeyCSrPFB_5ZQ/edit?usp=sharing)
